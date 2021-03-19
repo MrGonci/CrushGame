@@ -1,0 +1,5 @@
+C:\Users\mrgon\Videos\A\CrushGame.exe
+C:\Users\mrgon\Videos\A\CrushGame.dll
+C:\Users\mrgon\Videos\A\CrushGame.deps.json
+C:\Users\mrgon\Videos\A\CrushGame.runtimeconfig.json
+C:\Users\mrgon\Videos\A\CrushGame.pdb

@@ -1,0 +1,11 @@
+C:\Users\mrgon\Desktop\GSA\CrushGame.pdb
+C:\Users\mrgon\Desktop\GSA\clrcompression.dll
+C:\Users\mrgon\Desktop\GSA\clrjit.dll
+C:\Users\mrgon\Desktop\GSA\coreclr.dll
+C:\Users\mrgon\Desktop\GSA\mscordaccore.dll
+C:\Users\mrgon\Desktop\GSA\D3DCompiler_47_cor3.dll
+C:\Users\mrgon\Desktop\GSA\PenImc_cor3.dll
+C:\Users\mrgon\Desktop\GSA\PresentationNative_cor3.dll
+C:\Users\mrgon\Desktop\GSA\vcruntime140_cor3.dll
+C:\Users\mrgon\Desktop\GSA\wpfgfx_cor3.dll
+C:\Users\mrgon\Desktop\GSA\CrushGame.exe
